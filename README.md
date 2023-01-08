@@ -1,3 +1,2 @@
-# Code-Streak-Day1
-Creating a Vanilla JavaScript StopWatch
-Given Problem is to create a Stopwatch using JavaScript
+# 20DaysCodeStreak
+Learning and Creating different projects under HTML,CSS and JavaScript 
