@@ -4,3 +4,4 @@
 ![code streak day 1-1](https://user-images.githubusercontent.com/93040572/211203940-b0b95d40-34c9-422e-9100-4681e6beaed5.png)
 ![codestreak day 1-2](https://user-images.githubusercontent.com/93040572/211203944-cb2bf990-2dd9-44bf-a5be-604c979fd0c6.png)
 ![code streak day 1-3](https://user-images.githubusercontent.com/93040572/211203945-ff6e033a-b300-4e35-b27f-58ab87e390b4.png)
+### Day 2-Creating a Clock using Javascript [
