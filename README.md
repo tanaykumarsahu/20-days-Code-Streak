@@ -8,4 +8,9 @@
 ![codestreakday2-1](https://user-images.githubusercontent.com/93040572/211337888-48c12c16-5832-4c48-b8ab-6ef66f4407da.png)
 ![codestreakday2-2](https://user-images.githubusercontent.com/93040572/211337914-e89010da-867d-442c-b555-9f91bbc594a5.png)
 ![codestreakday2-3](https://user-images.githubusercontent.com/93040572/211337924-dbe1eade-d453-4ec2-9872-94e75aed8b9f.png)
-### Day 2-Creating a Calculator using Javascript
+### Day 3-Creating a Calculator using Javascript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day3-vitbhopalgaming-activity-7018547597057376256-eqGE?utm_source=share&utm_medium=member_desktop)
+![code_streak_day-3-1](https://user-images.githubusercontent.com/93040572/211547373-bea2e844-7b82-4996-9a8d-ca538d836039.png)
+![code_streak_day-3-2](https://user-images.githubusercontent.com/93040572/211547392-e87eb491-a11b-4a2c-bd21-5eb5841e5c16.png)
+![codestreakday3-3](https://user-images.githubusercontent.com/93040572/211547412-4df622e8-521a-4b57-b207-a4ace66bd986.png)
+![codestreakday3-4](https://user-images.githubusercontent.com/93040572/211547426-233cb339-f3cf-4bb5-ae1c-facc09b538fd.png)
+![codestreakday3-5](https://user-images.githubusercontent.com/93040572/211547450-b29cd2bd-f45a-442e-a7a3-34c9b7f3e07b.png)
