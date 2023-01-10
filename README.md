@@ -8,3 +8,4 @@
 ![codestreakday2-1](https://user-images.githubusercontent.com/93040572/211337888-48c12c16-5832-4c48-b8ab-6ef66f4407da.png)
 ![codestreakday2-2](https://user-images.githubusercontent.com/93040572/211337914-e89010da-867d-442c-b555-9f91bbc594a5.png)
 ![codestreakday2-3](https://user-images.githubusercontent.com/93040572/211337924-dbe1eade-d453-4ec2-9872-94e75aed8b9f.png)
+### Day 2-Creating a Calculator using Javascript
