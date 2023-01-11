@@ -14,3 +14,8 @@
 ![codestreakday3-3](https://user-images.githubusercontent.com/93040572/211547412-4df622e8-521a-4b57-b207-a4ace66bd986.png)
 ![codestreakday3-4](https://user-images.githubusercontent.com/93040572/211547426-233cb339-f3cf-4bb5-ae1c-facc09b538fd.png)
 ![codestreakday3-5](https://user-images.githubusercontent.com/93040572/211547450-b29cd2bd-f45a-442e-a7a3-34c9b7f3e07b.png)
+### Day 4-To Create a Guess The Color Game(Specially for Developers) Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day4-vitbhopalgaming-activity-7018949181499150336-14U3?utm_source=share&utm_medium=member_desktop)
+![codestreakday4-1](https://user-images.githubusercontent.com/93040572/211834766-1a5a59e2-452f-42ca-9b33-80d9d42cdc27.png)
+![codestreakday4-2](https://user-images.githubusercontent.com/93040572/211834797-559aed6d-75cb-4192-91a2-a8bd63524bd5.png)
+![codestreakday4-3](https://user-images.githubusercontent.com/93040572/211834814-3d7b4d9e-b6c3-4989-bf36-49ae7fa1655b.png)
+![codestreakday4-4](https://user-images.githubusercontent.com/93040572/211834837-404d6b55-6895-407b-8ab3-8327aa856a30.png)
