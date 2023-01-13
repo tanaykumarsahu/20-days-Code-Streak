@@ -24,11 +24,20 @@
 ![codestreakday5-2](https://user-images.githubusercontent.com/93040572/212077036-a3579dd5-1c53-4d3a-b588-c8cfc23686df.png)
 ![codestreakday5-3](https://user-images.githubusercontent.com/93040572/212077061-26317c68-1d68-43d8-9dd4-15079ebff7b4.png)
 ![codestreak5-4](https://user-images.githubusercontent.com/93040572/212077093-98da7da8-3eb0-41dd-bf13-e8457639539f.png)
-
-
-
-
-
+### Day 6-To Create a Pong Game Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day6-vitbhopalgaming-activity-7019667749316538368-x3qc?utm_source=share&utm_medium=member_desktop)
+![codestreakday6-1](https://user-images.githubusercontent.com/93040572/212340448-932e6f27-0fc0-4c3c-adbe-022f9acf85a2.png)
+![codestreak6-2](https://user-images.githubusercontent.com/93040572/212340458-19f5cb4a-9537-4b16-8eca-b7f8761bd8d7.png)
+![codestreak6-3](https://user-images.githubusercontent.com/93040572/212340482-34336e1c-5c26-44d3-9506-1fcb262d2b63.png)
+![cs6-4](https://user-images.githubusercontent.com/93040572/212340497-4bcf1aae-50ae-4118-ae9b-b4f58178a179.png)
+![ccs-65](https://user-images.githubusercontent.com/93040572/212340512-306577a6-aa5e-4c3c-ac3e-86c2ad0b8122.png)
+![cs66](https://user-images.githubusercontent.com/93040572/212340564-1553abdb-d68b-4ec3-9da5-27c9c1fa215c.png)
+![cs67](https://user-images.githubusercontent.com/93040572/212340573-fdc6ab1e-a27d-4871-b7e1-92bbe7d385be.png)
+![cs68](https://user-images.githubusercontent.com/93040572/212340602-1156cd0e-5e12-443e-a31d-37924c8d2054.png)
+![cs69](https://user-images.githubusercontent.com/93040572/212340633-c47b03f5-1a95-4c3e-a192-1df2d9d18964.png)
+![cs70](https://user-images.githubusercontent.com/93040572/212340646-0be6ee09-3422-420b-8a3e-dc618e5634cd.png)
+![cs71](https://user-images.githubusercontent.com/93040572/212340709-68a63a80-bf5e-4054-a6f5-34e670ca1a8d.png)
+![cs72](https://user-images.githubusercontent.com/93040572/212340737-c56cda4b-1077-4f7a-b7f1-780377be04d5.png)
+![cs73](https://user-images.githubusercontent.com/93040572/212340758-7a188fc9-446d-484c-87e0-2028c9837aa1.png)
 
 
 
