@@ -38,6 +38,17 @@
 ![cs71](https://user-images.githubusercontent.com/93040572/212340709-68a63a80-bf5e-4054-a6f5-34e670ca1a8d.png)
 ![cs72](https://user-images.githubusercontent.com/93040572/212340737-c56cda4b-1077-4f7a-b7f1-780377be04d5.png)
 ![cs73](https://user-images.githubusercontent.com/93040572/212340758-7a188fc9-446d-484c-87e0-2028c9837aa1.png)
+### Day 7-To Create a JavaScript Pairs Game Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day7-vitbhopalgaming-activity-7020025784253702145-uaam?utm_source=share&utm_medium=member_desktop)
+![codestreakday71](https://user-images.githubusercontent.com/93040572/212475538-7c3d428f-5ca6-4dd0-ac57-f300de7b9713.png)
+![codestreakday72](https://user-images.githubusercontent.com/93040572/212475542-c96f03d1-3f0c-4f5b-bdc8-9c1540169786.png)
+![codestreakday73](https://user-images.githubusercontent.com/93040572/212475561-9cec7364-9d12-47d6-acf8-f976b382ad3a.png)
+![codestreakday74](https://user-images.githubusercontent.com/93040572/212475575-e089b435-392f-435c-b3b5-d54ce56a90d4.png)
+
+
+
+
+
+
 
 
 
