@@ -43,12 +43,10 @@
 ![codestreakday72](https://user-images.githubusercontent.com/93040572/212475542-c96f03d1-3f0c-4f5b-bdc8-9c1540169786.png)
 ![codestreakday73](https://user-images.githubusercontent.com/93040572/212475561-9cec7364-9d12-47d6-acf8-f976b382ad3a.png)
 ![codestreakday74](https://user-images.githubusercontent.com/93040572/212475575-e089b435-392f-435c-b3b5-d54ce56a90d4.png)
-
-
-
-
-
-
-
+### Day 8-To Create a JavaScript Maze Game Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day8-vitbhopalgaming-activity-7020383527632318464-n4VR?utm_source=share&utm_medium=member_desktop)
+![cs81](https://user-images.githubusercontent.com/93040572/212544082-a6bda1bc-cebd-4af6-87f2-9bb5c85f8d39.png)
+![cs82](https://user-images.githubusercontent.com/93040572/212544087-a9f3d584-83df-4243-94d0-eb1e6ef3a372.png)
+![cs83](https://user-images.githubusercontent.com/93040572/212544089-edd2c179-b247-45c0-b723-0f9e457758dd.png)
+![cs84](https://user-images.githubusercontent.com/93040572/212544098-90eedb9d-8496-4030-ab8f-956c6ebe4ad0.png)
 
 
