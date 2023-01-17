@@ -52,9 +52,8 @@
 ![cs91](https://user-images.githubusercontent.com/93040572/212636198-dc2f28c0-7a38-4fb6-a242-58abba16192b.png)
 ![cs92](https://user-images.githubusercontent.com/93040572/212636209-52d1ca3e-60b5-4d0b-b9dd-fb1260151c14.png)
 ![cs93](https://user-images.githubusercontent.com/93040572/212636220-65959a22-6a71-4819-8272-42e9c8625e25.png)
-
-
-
-
-
+### Day10-To Create Javascript Palindrome Check Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day10-vitbhopalgaming-activity-7021116124758958080-vK-b?utm_source=share&utm_medium=member_desktop)
+![cs101](https://user-images.githubusercontent.com/93040572/212920403-7e14b90c-9314-4dba-851b-642393dd24af.png)
+![cs102](https://user-images.githubusercontent.com/93040572/212920430-a6378614-1776-487a-b876-d71c02466674.png)
+![cs103](https://user-images.githubusercontent.com/93040572/212920458-afd19a4f-afb2-417f-8b00-b435d0e128d1.png)
 
