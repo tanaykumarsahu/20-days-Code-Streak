@@ -57,7 +57,13 @@
 ![cs102](https://user-images.githubusercontent.com/93040572/212920430-a6378614-1776-487a-b876-d71c02466674.png)
 ![cs103](https://user-images.githubusercontent.com/93040572/212920458-afd19a4f-afb2-417f-8b00-b435d0e128d1.png)
 ### Day11-To Create Javascript Quiz Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day11-vitbhopalgaming-activity-7021471355913015296-cGZt?utm_source=share&utm_medium=member_desktop)
-![Uploading cs111.png…]()
-![Uploading cs112.png…]()
-![Uploading css113.png…]()
+![cs111](https://user-images.githubusercontent.com/93040572/213377773-e3c61bff-339a-4d3a-b310-f31994983b4f.png)
+![cs112](https://user-images.githubusercontent.com/93040572/213377812-98072a16-02a6-47d1-b844-77c072e14327.png)
+![css113](https://user-images.githubusercontent.com/93040572/213377824-afd5fd4c-af8d-4fd9-a069-8803cf69584f.png)
+### Day12-To Create Animated Nav Toggle [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day12-vitbhopalgaming-activity-7021734779347714048-JAvu?utm_source=share&utm_medium=member_desktop_)
+![cs121](https://user-images.githubusercontent.com/93040572/213377848-0c42473d-3bbf-4085-b297-f9c6f943e639.png)
+![cs122](https://user-images.githubusercontent.com/93040572/213377858-88acee1d-324c-4cf6-945b-93e4da5c5174.png)
+
+
+
 
