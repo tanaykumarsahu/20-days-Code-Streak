@@ -66,4 +66,9 @@
 ### Day 13-To Create JavaScript Mouseover Effect Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day13-vitbhopalgaming-activity-7022047645393141760-jRtn?utm_source=share&utm_medium=member_desktop)
 ![cs131](https://user-images.githubusercontent.com/93040572/213613876-014e84e0-24af-4565-932d-6646e61951b2.png)
 ![cs132](https://user-images.githubusercontent.com/93040572/213613886-356b1cb5-de4d-4d9c-96cd-d4a1ed599c69.png)
+### Day 14-To Create Micro Code Editor Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day14-vitbhopalgaming-activity-7022789573927682048-KPij?utm_source=share&utm_medium=member_desktop)
+![cs141](https://user-images.githubusercontent.com/93040572/213901374-8a1f0e38-1500-455d-a8fe-ff4b517bf9ca.png)
+![cs142](https://user-images.githubusercontent.com/93040572/213901375-228f056c-ea45-45d8-802d-57fc6cdff4c3.png)
+![cs143](https://user-images.githubusercontent.com/93040572/213901380-7ba6d46c-517f-4bea-a3df-0b91ce987ba7.png)
+### Day 15-
 
