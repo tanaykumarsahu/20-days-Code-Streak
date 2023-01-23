@@ -70,9 +70,10 @@
 ![cs141](https://user-images.githubusercontent.com/93040572/213901374-8a1f0e38-1500-455d-a8fe-ff4b517bf9ca.png)
 ![cs142](https://user-images.githubusercontent.com/93040572/213901375-228f056c-ea45-45d8-802d-57fc6cdff4c3.png)
 ![cs143](https://user-images.githubusercontent.com/93040572/213901380-7ba6d46c-517f-4bea-a3df-0b91ce987ba7.png)
-### Day 15-To Create Bow Arrow Game Using Javascrip [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day15-vitbhopalgaming-activity-7022790265585213440-mf0h?utm_source=share&utm_medium=member_desktop)
+### Day 15-To Create Bow Arrow Game Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day15-vitbhopalgaming-activity-7022790265585213440-mf0h?utm_source=share&utm_medium=member_desktop)
 ![cs151](https://user-images.githubusercontent.com/93040572/213901434-a84b76e2-dab4-4951-a711-23c9a00fc1ab.png)
 ![cs152](https://user-images.githubusercontent.com/93040572/213901435-dcb41610-4328-4b10-a05c-57f1dec06857.png)
 ![cs153](https://user-images.githubusercontent.com/93040572/213901436-f574665e-1fbd-4333-a27c-d47198cebda9.png)
+### Day 16-To Create Rock Paper Scissor Game Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day16-vitbhopalgaming-activity-7023136626830630912-lg58?utm_source=share&utm_medium=member_desktop)
 
 
