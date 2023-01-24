@@ -78,7 +78,8 @@
 ![cs161](https://user-images.githubusercontent.com/93040572/214362628-c8f490ee-4777-4d0c-bc29-e3fefe5e4ebf.png)
 ![cs162](https://user-images.githubusercontent.com/93040572/214362666-688a37a5-08c4-45ed-9407-bc8ab7e569ce.png)
 ![cs163](https://user-images.githubusercontent.com/93040572/214362695-b76ca0b3-b35d-4b10-a80a-da09cd7d4737.png)
-
+### Day 17-To Create Snake Game Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day17-vitbhopalgaming-activity-7023701290064953345-d3tU?utm_source=share&utm_medium=member_desktop)
+![cs17](https://user-images.githubusercontent.com/93040572/214363468-cd43161d-da49-4601-a7f2-a06d03d1abd5.png)
 
 
 
