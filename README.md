@@ -80,7 +80,7 @@
 ![cs163](https://user-images.githubusercontent.com/93040572/214362695-b76ca0b3-b35d-4b10-a80a-da09cd7d4737.png)
 ### Day 17-To Create Snake Game Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day17-vitbhopalgaming-activity-7023701290064953345-d3tU?utm_source=share&utm_medium=member_desktop)
 ![cs17](https://user-images.githubusercontent.com/93040572/214363468-cd43161d-da49-4601-a7f2-a06d03d1abd5.png)
-
+### Day 18-To Create a Guess The Word Game Using JavaScript [Linkedin]
 
 
 
