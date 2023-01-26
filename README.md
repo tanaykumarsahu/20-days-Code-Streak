@@ -64,7 +64,6 @@
 ![cs121](https://user-images.githubusercontent.com/93040572/213377848-0c42473d-3bbf-4085-b297-f9c6f943e639.png)
 ![cs122](https://user-images.githubusercontent.com/93040572/213377858-88acee1d-324c-4cf6-945b-93e4da5c5174.png)
 ### Day 13-To Create JavaScript Mouseover Effect Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day13-vitbhopalgaming-activity-7022047645393141760-jRtn?utm_source=share&utm_medium=member_desktop)
-![cs131](https://user-images.githubusercontent.com/93040572/213613876-014e84e0-24af-4565-932d-6646e61951b2.png)
 ![cs132](https://user-images.githubusercontent.com/93040572/213613886-356b1cb5-de4d-4d9c-96cd-d4a1ed599c69.png)
 ### Day 14-To Create Micro Code Editor Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day14-vitbhopalgaming-activity-7022789573927682048-KPij?utm_source=share&utm_medium=member_desktop)
 ![cs141](https://user-images.githubusercontent.com/93040572/213901374-8a1f0e38-1500-455d-a8fe-ff4b517bf9ca.png)
@@ -84,9 +83,8 @@
 ![cs181](https://user-images.githubusercontent.com/93040572/214596826-1b6c2356-0c1f-497e-a135-c8c8457d17c7.png)
 ![cs182](https://user-images.githubusercontent.com/93040572/214596837-62401831-8e48-4968-8730-0747d2fbaf7a.png)
 ![cs183](https://user-images.githubusercontent.com/93040572/214596850-e7116a3f-87e1-4f98-96db-06556608e029.png)
-
-
-
+### Day 19-To Create a Chess Game Using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day19-vitbhopalgaming-activity-7024420786673266688-CMoK?utm_source=share&utm_medium=member_desktop)
+![cs19](https://user-images.githubusercontent.com/93040572/214900871-13a5d6fc-cc3e-44c0-b83a-6d74817d5528.png)
 
 
 
