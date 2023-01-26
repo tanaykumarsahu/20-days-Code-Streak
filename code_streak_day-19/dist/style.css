@@ -1,0 +1,54 @@
+@import url("https://fonts.googleapis.com/css?family=Quicksand");
+@import url("https://fonts.googleapis.com/css?family=Josefin Sans");
+body {
+  background-color: whitesmoke;
+}
+
+h2 {
+  font-size: 50px;
+  margin: 30px auto;
+  font-family: Quicksand;
+}
+
+h3, button {
+  font-family: Josefin Sans;
+  margin: 30px;
+  font-size: 20px;
+}
+
+canvas {
+  background: whitesmoke;
+  display: block;
+  margin: 15px auto;
+}
+
+.description {
+  font-family: Quicksand;
+  font-size: 24px;
+  text-align: left;
+  margin: auto auto;
+  width: 650px;
+}
+
+#buttonHolder {
+  margin: 30px auto;
+  width: 400px;
+  font-weight: bolder;
+}
+
+button {
+  font-size: 20px;
+  height: 45px;
+  border-radius: 5px;
+}
+button:hover {
+  background: #212F3C;
+  color: white;
+}
+button:focus {
+  outline: none;
+}
+
+i {
+  font-size: 35px;
+}
