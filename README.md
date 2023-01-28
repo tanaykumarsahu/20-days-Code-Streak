@@ -87,6 +87,6 @@
 ![cs19](https://user-images.githubusercontent.com/93040572/214900871-13a5d6fc-cc3e-44c0-b83a-6d74817d5528.png)
 ### Day 20-To Create a Arrow defence Game using JavaScript [LinkedIn](https://www.linkedin.com/posts/tanay-kumar-sahu-653414221_20dayscodestreak-day20-vitbhopalgaming-activity-7024954062013968384-s1SJ?utm_source=share&utm_medium=member_desktop)
 ![cs20](https://user-images.githubusercontent.com/93040572/215241698-2b34fe04-47a0-416a-9430-59c654e71840.png)
-
+## Tanay Kumar Sahu [LinkedIn](https://www.linkedin.com/in/tanay-kumar-sahu-653414221/)
 
 
